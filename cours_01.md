@@ -15,6 +15,7 @@ ce qui me représente dans ce cours :
 * touriste scolaire
 * touriste en langues
 * touriste directionnel
+* touriste artistique
 
 En résumé, je suis un touriste de la vie. 🦆
 
