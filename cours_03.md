@@ -2,19 +2,19 @@
 ## Plan de présentation
 
 ### Présentation
-Parlez de vous. 
+Je m'appelle Gabriel, j'ai 17 ans, je suis québécois de souche (même si par moments j'ai plus l'air français qu'autre chose). Ma passion sont les jeux en général (vidéos, de société, etc.) et j'aime par-dessus tout faire rire les gens.
 
 ### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
+Je ne sais pas si ça fait parti du multimédia, mais j'ai choisi ce programme dans le but d'apprendre le montage vidéo, donc ce serait ça mon intérêt.
 
 ### Emplois qui vous intéressent
-Nommez deux emplois.
+Monteur de vidéos.
 
 ### Identification
-Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
+Je ne m'identifie à rien/personne parce que chacun à sont propre parcours et il ne faut pas se baser sur quelqu'un (selon moi).
 
 ### Dans 5 ans
-Où vous voyez-vous dans 5 ans? 
+Je n'en ai AUCUNE idée.
 
 ### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+Monter des vidéos.
