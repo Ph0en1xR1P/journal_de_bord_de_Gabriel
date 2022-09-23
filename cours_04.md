@@ -2,8 +2,12 @@
 ## Décrire 5 emplois du domaine du multimédia
 Choisissez des emplois qui pourraient vous intéresser. 
 
-### Emploi 1 - Identification
-Écrire 4 à 5 lignes. Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Décrire les qualités requises pour pratiquer ce métier. Un point qui vous intéresse dans ce métier. Un point qui rend ce métier moins intéressant pour vous.  
+### Emploi 1 - Commercial en informatique
+-Vend des produits et services informatiques.
+-Dans un bureau d'une entreprise ou chez lui.
+-Aisance relationnelle, technique de vente et de négociation, etc.
+-Parler à beaucoup de monde, la communication, etc.
+-Le fait de devoir connaître chaque spécificité de chaque produit.
 
 ### Emploi 2 - Webmaster
 -Gestion et entretien des sites web.
@@ -32,5 +36,3 @@ Choisissez des emplois qui pourraient vous intéresser.
 -Maitrîse des outils audiovisuels, intérêt pour la réalité virtuelle, etc.
 -La VR ouvre tellement de possibilité.
 -Ça me donne mal à la tête les casques VR.
-
-
