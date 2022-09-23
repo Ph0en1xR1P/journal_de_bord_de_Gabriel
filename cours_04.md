@@ -19,10 +19,18 @@ Choisissez des emplois qui pourraient vous intéresser.
 -C'est relier en majorité aux jeux vidéos.
 -Devoir être bon en design (je suis très nul).
 
-### Emploi 4 - Identification
-4 à 5 lignes
+### Emploi 4 - Level Designer
+-Créer des niveaux pour un jeu vidéo.
+-Dans un bureau (un peu de télé-travail)
+-Forte sensibilité artistique, résistance au stress, etc.
+-Le lien avec le jeu vidéo.
+-Devoir maitrîser l'anglais (je sais pas comment j'ai passé mon secondaire en anglais donc...)
 
-### Emploi 5 - Identification
-4 à 5 lignes
+### Emploi 5 - Réalisateur VR
+-Réalise des expérience VR.
+-Soit dans un bureau s'il travillent dans une entreprise, soit chez lui s'il est un travailleur indépendant (sans entreprise).
+-Maitrîse des outils audiovisuels, intérêt pour la réalité virtuelle, etc.
+-La VR ouvre tellement de possibilité.
+-Ça me donne mal à la tête les casques VR.
 
 
