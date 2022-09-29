@@ -2,10 +2,10 @@
 ## Rétrospective de la présentation 1
 
 ### Points forts
-Nommer deux points forts de votre présentation. 
+Short and sweet. 
 
 ### Points à améliorer
-Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations. 
+Mettre plus d'images.
 
 ### Présentation préférée
-Quelle présentation avez-vous préféré et pourquoi? 
+Celle de Raphael Poirier, car j'ai bien aimé son projet d'univers et aussi pour son allusion à l'art.
