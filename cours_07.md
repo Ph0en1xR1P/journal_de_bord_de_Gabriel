@@ -12,4 +12,4 @@ Décrivez l'oeuvre. Quelles étaient les composantes de l'installation? Comment 
 Donnez votre opinion sur l'oeuvre que nous avons visitée. Vous a-t-elle plu? Ou pas du tout? Pourquoi? Est-ce que certains aspects vous ont plus touchés que d'autres? 
 
 ### Analyse critique
-Qu'est-ce qui pourrait être modifié dans cette oeuvre? 
+Pour la troisième salle, il faudrait avoir un meilleur plancher interactif, il y avait un peu de latence et il ne marchait pas tout le temps.
